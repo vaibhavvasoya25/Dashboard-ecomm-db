@@ -1,0 +1,59 @@
+{
+  "login": [
+    {
+      "userName": "vaibhav",
+      "password": "vaibhav@292"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Lapinoz",
+      "address": "Surat",
+      "rating": "5.0",
+      "email": "lapinoz@test.com"
+    },
+    {
+      "id": 2,
+      "name": "Pizza Hut",
+      "address": "Noida",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "id": 3,
+      "name": "MCDonald",
+      "address": "Delhi",
+      "rating": "4.0",
+      "email": "mcdonald@test.com"
+    },
+    {
+      "name": "Burger King",
+      "address": "Baroda",
+      "rating": "3.5",
+      "email": "burgerking@test.com",
+      "id": 4
+    },
+    {
+      "name": "Martinoz",
+      "address": "Punjab",
+      "rating": "3.8",
+      "email": "martinozpizza@test.com",
+      "id": 5
+    },
+    {
+      "name": "Hotel Tulsi",
+      "address": "Rajkot",
+      "rating": "4.9",
+      "email": "hoteltulsi@test.com",
+      "id": 6
+    },
+    {
+      "name": "Taapi",
+      "address": "Surat",
+      "rating": "4.2",
+      "email": "tapi@gmail.com",
+      "id": 7
+    }
+  ]
+}
